@@ -1,0 +1,1 @@
+₹{parseFloat(account.balance).toFixed(2)} 
